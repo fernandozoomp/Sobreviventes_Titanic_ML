@@ -13,14 +13,14 @@ Foram respondidas as seguintes perguntas:<br />
 
 Breve Descrição:<br />
 
-Analisando os dados, foi possível constatar a qualidade relativa das informações. Também podemos citar os campos (Sobrevivente, Idade, ClasseBilhete, Sexo), seriam promisssores para identificar os tipos de pessoas que tenham morrido ou sobrevivido a tragédia.<br />
+Analisando os dados foi possível constatar a qualidade relativa das informações. Também podemos citar os campos (Sobrevivente, Idade, ClasseBilhete, Sexo), seriam promisssores para identificar os tipos de pessoas que tenham morrido ou sobrevivido a tragédia.<br />
 
 Limpezas:<br />
 
-Foram verificados os campos que continham valores nulos e absurdos, ajusatndo para a média entre eles.<br />
+  Foram verificados os campos que continham valores nulos e absurdos, ajusatndo para a média entre eles.<br />
 
-Alguns campos foram renomeados;<br />
+  Alguns campos foram renomeados;<br />
 
-Verificado se existem registros duplicados;<br />
+  Verificado se existem registros duplicados;<br />
 
-Uma nova coluna foi criada para categorizar a faíxa etária;<br />
+  Uma nova coluna foi criada para categorizar a faixa etária.<br />

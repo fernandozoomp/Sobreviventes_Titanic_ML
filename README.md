@@ -1,6 +1,6 @@
 # Sobreviventes_Titanic
 
-Analisando exploratória dos dados do Titanic disponibilizados pelo Professor Vinícius Santos I2A2 e utilizados no desafio Kaggle.
+Analisando o dataset do Titanic como exemplo de Qualidade de Dados pelo Professor Vinícius Santos I2A2 e utilizados no desafio Kaggle.
 
 Esse conjunto de dados tem diversas informações sobre os sobreviventes ou mortos da tragédia.<br />
 
